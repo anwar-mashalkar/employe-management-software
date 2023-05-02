@@ -1,0 +1,38 @@
+.striped-table{
+    color: black;
+}
+.contain-table{
+    background-color: #59a6ef;
+    border-radius: 3%;
+}
+.small-container{
+    background-color: rgb(175, 175, 160);
+    border-radius: 5%;
+}
+.navpage{
+    background-color: black;
+    align-items: center;
+    color: yellow;
+}
+
+.round-button{
+    color:white;
+    background-color: rgb(67, 67, 186);
+}
+.colimage{
+    width:100px;
+    height: 100px;
+    margin-left: 1000px;
+    
+}
+.heading{
+    color:yellow;
+    
+    border-radius: 20%;
+    margin-left: 300px;
+    align-items: flex-end;
+}
+.addheading{
+    justify-items: center;
+    
+}
